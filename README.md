@@ -1,4 +1,4 @@
-# Data-Science-Project-2-
+# Data-Science-Project-Retail
 EDA, Machine Learning, TABLEAU DASHBOARD
 
 Project: Retail
